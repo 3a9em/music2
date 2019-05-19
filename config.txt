@@ -1,6 +1,6 @@
 owner=238717052368584714
-prefix=*
-game=Command | *play
+prefix=+
+game=Command | +play
 stayinchannel=false
 songinstatus=true
 token=NTMyMTYyNTEzNzMxNTg0MDAy.XOHKUA._xioA9Du0sygZ5PMv-tHmcUmLPQ
